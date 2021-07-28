@@ -1,0 +1,2 @@
+# geometry
+Standalone geometrical algorithms.
