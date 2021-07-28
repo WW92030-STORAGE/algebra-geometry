@@ -1,2 +1,2 @@
-# geometry
-Standalone geometrical algorithms.
+# algebra-geometry
+Algorithms for geometry and algebra.
